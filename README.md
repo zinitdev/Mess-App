@@ -7,13 +7,13 @@ Mess App with React Native &hearts;
 Install dependencies
 
 ```bash
-yarn install
+npm install
 ```
 
 Run project
 
 ```bash
-yarn start
+npm start
 ```
 
 ## Plugins and Libraries
